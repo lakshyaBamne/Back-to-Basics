@@ -19,6 +19,11 @@ Navigate to different branches to see the basics for various things I have learn
     - Using Pygame to make games quickly and efficiently using Python
     - Some personal projects
 
+- ### Machine Learning and Artificial Intelligence
+    - Mathematics used in Machine Learning
+    - Basic but most important Machine Learning Models (theory and implementation)
+    - Foundations of Neural Networks and Deep Learning
+
 - ### Photography and Videography
     - Basics I learned while pursuing a hobby (through a youtube channel)
     - Some templates to help you simplify your production process
